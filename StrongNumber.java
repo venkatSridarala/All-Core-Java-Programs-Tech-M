@@ -29,4 +29,6 @@ public class StrongNumber {
         }
     }
 }
-
+//Output:
+//	Enter a number: 145
+//	145 is a Strong Number
