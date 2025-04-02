@@ -48,5 +48,9 @@ public class Employee10 extends HRmanager {
 		e.getsalary();
 		e.addemploye();
 	}
-
 }
+// output
+// Test the code .
+//  Name : hari
+//  Salary : 50000
+// A new emplyee is being added .
