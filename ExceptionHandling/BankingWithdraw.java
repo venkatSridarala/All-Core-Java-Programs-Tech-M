@@ -28,5 +28,10 @@ public class BankingWithdraw{
 			e.printStackTrace();
 		}
 	}
+// output
+// Enter withdraw amount:
+// 1678
+// Withdraw done..!
+// Your remaining balance is:322
 
 }
