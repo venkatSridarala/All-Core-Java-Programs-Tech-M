@@ -21,5 +21,7 @@ public class TrafficLight {
 		light.changeColor("Red");
 		
 	}
-
-}
+// }
+// output
+// The Current Color is :Green Duration is 30.0
+// The Changed Color Is :Red
