@@ -19,5 +19,7 @@ public class Rectangle {
 		r.area();
 		r.perimeter();
 	}
-
 }
+// output
+// The area of the rectangle is: 50.0
+// The Perimeter of the Rectangle is: 30.0
