@@ -30,3 +30,8 @@ public class Employee3 {
 		e.YofService(2030);
 	}
 }
+// output
+// The Employee Name is: Shiva
+// The Salary Is: 50000.0
+// The Hired Year Is: 2025
+// Shiva is Permanent Employee Beacuse Above 5Years Worked.
