@@ -25,3 +25,8 @@ public class Employee {
 		e.updateSalary(5000);
 	}
 }
+// output
+// Employee Name is:Giridhar
+// The Job Title is:Java Developer
+// The Salary is :60000.0
+// The Updated Salary is: 65000.0
