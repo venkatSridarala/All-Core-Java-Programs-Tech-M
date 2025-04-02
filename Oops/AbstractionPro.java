@@ -40,3 +40,8 @@ public class AbstractionPro {
         c.resize();
 	}
 }
+// output
+// Reactangle Had Been Drawn
+// Reactangle Had Been Resized
+// Circle had been Drawn
+// Circle has been Resized
