@@ -106,3 +106,24 @@ public class BankAccount {
         scanner.close();
     }
 }
+// output
+//     Bank Menu:
+// 1. Deposit
+// 2. Withdraw
+// 3. Check Balance
+// 4.Check balance after interest
+// 5. Exit
+// Choose an option: 3
+// Current balance: $1000.0
+// Enter 1 to continue 0 to exit.
+// 1
+
+// Bank Menu:
+// 1. Deposit
+// 2. Withdraw
+// 3. Check Balance
+// 4.Check balance after interest
+// 5. Exit
+// Choose an option: 4
+// After interest:1080.0
+// Exiting... Thank you for using our banking system!
