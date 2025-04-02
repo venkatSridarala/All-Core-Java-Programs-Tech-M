@@ -28,5 +28,8 @@ public class Animalmain {
 		puppy py = new puppy();
 		py.sleep();
 	}
-
 }
+// //output
+// The dog is barking
+// The animals are eating.
+// The puppy is sleeping.
