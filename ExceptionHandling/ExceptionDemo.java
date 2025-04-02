@@ -27,3 +27,9 @@ public class ExceptionDemo {
 		}
 	}
 }
+// output
+// Enter A Number:
+// -67
+// java.lang.ArithmeticException: Entered Number is Negative
+// 	at ArraysPractice/ExceptionHandling.ExceptionDemo.negativeNum(ExceptionDemo.java:9)
+// 	at ArraysPractice/ExceptionHandling.ExceptionDemo.main(ExceptionDemo.java:23)
