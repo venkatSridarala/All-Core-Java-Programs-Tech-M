@@ -24,5 +24,7 @@ public class Airplain {
 		a.checkStatus();
 		a.delay(1.00);
 	}
-
 }
+//output
+//Flight No: A11002E to Mumbai departs at 12.15
+//The delay Is: 13.15
