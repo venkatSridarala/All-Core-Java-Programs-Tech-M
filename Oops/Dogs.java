@@ -27,5 +27,9 @@ public class Dogs {
 		d1.display();
 		d2.display();
 	}
-
-}
+// }
+// output
+// The dog Name Is: Max
+// The dog breed is: Laboured
+// The dog Name Is: Maxy
+// The dog breed is: pitbull
