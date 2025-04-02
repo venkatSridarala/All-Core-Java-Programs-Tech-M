@@ -47,4 +47,9 @@ public class Abstraction  {
 		t.calculateArea();
 		t.calculatePerimeter();
 	}	
-}
+// }
+// output
+// The area of circle : 54.25
+// The perimeter of circle : 21.7
+// The area of triangle : 25.0
+// The perimeter of circle : 15.0
